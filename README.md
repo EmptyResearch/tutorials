@@ -1,2 +1,0 @@
-# tutorials
-My Site
